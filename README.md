@@ -1,4 +1,5 @@
 # README
+A fun website with user authentication that allows users to play all kinds of different types of quizzes.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
